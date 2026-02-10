@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# ecommerce_flutter
+Aplicación de comercio electrónico completa y escalable. El programa integra un frontend multiplataforma en Flutter (para iOS y Android). La inclusión de Mercado Pago y Stripe permite manejar transacciones internacionales con estándares PCI DSS
